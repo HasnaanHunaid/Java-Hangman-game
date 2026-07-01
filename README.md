@@ -22,5 +22,4 @@ The system abstracts logic, visuals, and control flows across modular files with
 ## 🛠️ Requirements & Installation
 
 1. Ensure **Java Development Kit (JDK) 8** or higher is properly installed on your local environment.
-2. Clone this repository down locally:
-   ```bash
+2. Clone this repository down locally.
